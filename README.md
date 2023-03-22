@@ -1,3 +1,3 @@
 # pag-cadastro
  
-projeto portfolio feito através de um vídeo da Codehal
+pagina de cadastro feito através de um vídeo da Codehal
